@@ -8,9 +8,12 @@
 // @match        *://*.multiplayerpiano.org/*
 // @match        *://*.multiplayerpiano.dev/*
 // @match        *://*.singleplayerpiano.com/*
-// @require      https://raw.githubusercontent.com/Kirogii/MPP-Scripts/main/SoundPacksAdder.js
+
+// @license MIT
 
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/533752/MPP%20Soundfont%20Loader.user.js
+// @updateURL https://update.greasyfork.org/scripts/533752/MPP%20Soundfont%20Loader.meta.js
 // ==/UserScript==
 
 (function() {
