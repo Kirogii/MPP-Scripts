@@ -8,6 +8,8 @@
 // @match        *://*.multiplayerpiano.org/*
 // @match        *://*.multiplayerpiano.dev/*
 // @match        *://*.singleplayerpiano.com/*
+// @require      https://raw.githubusercontent.com/Kirogii/MPP-Scripts/main/SoundPacksAdder.js
+
 // @grant        none
 // ==/UserScript==
 
