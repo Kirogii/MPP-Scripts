@@ -7,7 +7,7 @@ MPP Neon-ify
 [Download](https://www.tampermonkey.net/script_installation.php#url=https://update.greasyfork.org/scripts/533754/MPP%20Neon-ify.user.js)
 
 Minecraftify
--Download not able to be setup currently using greasyfork and delay please wait meanwhile you can download it from the repository and create a new script
+[Download](https://www.tampermonkey.net/script_installation.php#url=https://update.greasyfork.org/scripts/533760/MPP%20Minecraft-ify.user.js)
 
 <p align="center">
   <img src="https://github.com/Kirogii/MPP-Scripts/blob/main/Neon-Ify.PNG?raw=true" alt="Neon-Ify" width="45%" />
