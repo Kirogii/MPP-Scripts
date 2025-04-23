@@ -3,8 +3,13 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.9
 // @description  Apply Minecraftia font to MPP, wrap names in <>, adjust cursor
-// @author       You
-// @match        https://multiplayerpiano.net/*
+// @author       Kirogii
+// @match        *://*.multiplayerpiano.net/*
+// @match        *://*.multiplayerpiano.org/*
+// @match        *://*.multiplayerpiano.dev/*
+ 
+// @license MIT
+
 // @grant        GM_addStyle
 // ==/UserScript==
 
