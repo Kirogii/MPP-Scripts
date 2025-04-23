@@ -7,7 +7,7 @@
 // @match        *://*.multiplayerpiano.net/*
 // @match        *://*.multiplayerpiano.org/*
 // @match        *://*.multiplayerpiano.dev/*
-// @match        *://*.singleplayerpiano.com/*
+
 
 // @license MIT
 
